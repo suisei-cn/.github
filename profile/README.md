@@ -9,18 +9,20 @@ Tanoshii yourself 😂:
   * [suisei-music-web](https://player.suisei.moe): Web-based music player ([source](https://github.com/suisei-cn/suisei-music-web))
   * [suisei-podcast](https://github.com/suisei-cn/suisei-podcast): Music over podcast
 
+
+Rust stuffs (these guys are somehow fond of the crab) 🦀:
+* [SuiMu](https://github.com/suisei-cn/suimu): Companion app for suisei-music
+* [Golden Axe](https://github.com/suisei-cn/golden-axe-rs): Anti-vandalism bot for Telegram
+* [Stargazer Reborn](https://github.com/suisei-cn/stargazer-reborn): Rewrite the [Stargazer](https://github.com/suisei-cn/pystargazer) with Rust, and microservice, and Rust
+
 Our recent projects 👀:
 * [AYT Translator](https://github.com/suisei-cn/ayt-translator): Aidoru YouTuber translator
 * [Precise Video Playback](https://github.com/suisei-cn/pvp): Userscript for video clippers
-* [PyStargazer](https://github.com/suisei-cn/pystargazer): Flexible VTuber SNS tracker
 * [actions-download-file](https://github.com/suisei-cn/actions-download-file): A GitHub action to download files
+* [Stargazer Next](https://github.com/suisei-cn/stargazer-next): A Next.js-based frontend of Stargazer Reborn
 
 Fun bots ✨:
 * [@holodailybot](https://t.me/holodailybot): VTuber gacha bot. ([source](https://github.com/suisei-cn/holodailybot))
 * [@hosymbot](https://t.me/hosymbot): Check out songs from suisei-music. ([source](https://github.com/suisei-cn/tg-bot-hoshiyomis))
-
-Rust stuffs 🦀:
-* [SuiMu](https://github.com/suisei-cn/suimu): Companion app for suisei-music
-* [Golden Axe](https://github.com/suisei-cn/golden-axe-rs): Anti-vandalism bot for Telegram
 
 This organization is **not** affiliated with Hololive or Hoshimachi Suisei.
