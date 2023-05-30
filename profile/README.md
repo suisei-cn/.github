@@ -3,10 +3,10 @@
 Suisei Workshop is a group of hoshiyomis that creates interesting things.
 
 Tanoshii yourself 😂:
-* [Starbuttons](https://suisei.moe): EHIHIHIHIHI ([source](https://github.com/suisei-cn/starbuttons))
+* [Starbuttons](https://suisei.cc): EHIHIHIHIHI ([source](https://github.com/suisei-cn/starbuttons))
 * [suisei-music](https://github.com/suisei-cn/suisei-music): A list of Suisei's singings
-  * [Suiseki](https://suiseki.suisei.moe): Web-based collated music player ([source](https://github.com/suisei-cn/suiseki))
-  * [suisei-music-web](https://player.suisei.moe): Web-based music player ([source](https://github.com/suisei-cn/suisei-music-web))
+  * [Suiseki](https://suiseki.suisei.cc): Web-based collated music player ([source](https://github.com/suisei-cn/suiseki))
+  * [suisei-music-web](https://player.suisei.cc): Web-based music player ([source](https://github.com/suisei-cn/suisei-music-web))
   * [suisei-podcast](https://github.com/suisei-cn/suisei-podcast): Music over podcast
 
 
