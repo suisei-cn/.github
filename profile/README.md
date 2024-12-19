@@ -22,7 +22,6 @@ Our recent projects 👀:
 * [Stargazer Next](https://github.com/suisei-cn/stargazer-next): A Next.js-based frontend of Stargazer Reborn
 
 Fun bots ✨:
-* [@holodailybot](https://t.me/holodailybot): VTuber gacha bot. ([source](https://github.com/suisei-cn/holodailybot))
 * [@hosymbot](https://t.me/hosymbot): Check out songs from suisei-music. ([source](https://github.com/suisei-cn/tg-bot-hoshiyomis))
 
 This organization is **not** affiliated with Hololive or Hoshimachi Suisei.
